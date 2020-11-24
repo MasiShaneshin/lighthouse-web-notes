@@ -1,0 +1,11 @@
+###### This is an H6 header (smallest)
+
+## Summary 
+
+This repository contains all of the notes taken by [masi](https://github.com/MasiShaneshin/) for the Lighthouse Labs Web Development Bootcamp.
+
+* week1(week_1)
+ * Day 1(Day_1)
+   1. Item One 
+   2. Item Two
+   3. Item Three
